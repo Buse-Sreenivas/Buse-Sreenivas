@@ -65,10 +65,6 @@
 - Built interactive dashboard using **Power BI**
 - Analyzed sales trends and KPIs
 
-### 🛒 E-Commerce Customer Insights
-- Used **Python + Pandas** for customer behavior analysis
-- Identified retention and churn patterns
-
 ### 💰 Financial Data Analysis
 - Cleaned and visualized stock/finance datasets
 - Generated reports using Excel & Python
@@ -88,7 +84,7 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/busepalli-sreenivas  
-- <a href="https://github.com/Buse-Sreenivas">🌐 GitHub: Buse-Sreenivas</a>  
+- <a href="https://github.com/Buse-Sreenivas">    🌐 GitHub: Buse-Sreenivas</a>  
 - 📧 Email: busepallisreenivas@gmail.com
 
   
