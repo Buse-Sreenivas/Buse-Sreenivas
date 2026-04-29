@@ -1,4 +1,3 @@
-'''md
 <h1 align="center">Hi 👋, I'm Busepalli Sreenivas</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
 
