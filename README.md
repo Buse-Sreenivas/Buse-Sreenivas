@@ -89,9 +89,11 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/busepalli-sreenivas  
-- 🌐 GitHub: https://github.com/Buse-Sreenivas  
-- 📧 Email: busepallisreenivas@gmail.com
+<a href="https://github.com/Buse-Sreenivas">🌐 GitHub: Buse-Sreenivas</a>
+
+<a href="https://www.linkedin.com/in/busepalli-sreenivas">💼 LinkedIn</a>
+
+📧 Email: busepallisreenivas@gmail.com
 
 ---
 
