@@ -86,16 +86,9 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-<a href="https://github.com/Buse-Sreenivas">🌐 GitHub: Buse-Sreenivas</a>
-
-<a href="https://www.linkedin.com/in/busepalli-sreenivas">💼 LinkedIn</a>
-
-📧 Email: busepallisreenivas@gmail.com
-
----
+💼 LinkedIn: https://www.linkedin.com/in/busepalli-sreenivas  
+<a href="https://github.com/Buse-Sreenivas">🌐 GitHub: Buse-Sreenivas</a>  
+- 📧 Email: busepallisreenivas@gmail.com
 
 ⭐ **“Without data, you're just another person with an opinion.”**
 ```
