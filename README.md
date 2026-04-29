@@ -85,11 +85,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buse-Sreenivas&layout=compact&theme=tokyonight"/>
 </p>
 
----
-💼 LinkedIn: https://www.linkedin.com/in/busepalli-sreenivas  
-<a href="https://github.com/Buse-Sreenivas">🌐 GitHub: Buse-Sreenivas</a>  
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/busepalli-sreenivas  
+- <a href="https://github.com/Buse-Sreenivas">🌐 GitHub: Buse-Sreenivas</a>  
 - 📧 Email: busepallisreenivas@gmail.com
 
+  
 ⭐ **“Without data, you're just another person with an opinion.”**
 ```
 
