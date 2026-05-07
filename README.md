@@ -1,21 +1,14 @@
-<h1 align="center">Hi 👋, I'm Busepalli Sreenivas</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Buse-Sreenivas">
-    <img src="https://img.shields.io/badge/GitHub-Buse--Sreenivas-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/busepalli-sreenivas">
-    <img src="https://img.shields.io/badge/LinkedIn-Busepalli Sreenivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:busepallisreenivas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-9959842960?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<h1>Busepalli Sreenivas</h1>
+
+### Data Analyst | AI Proctoring | Machine Learning | Full Stack Developer
+
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Blockchain-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech-Full%20Stack%20Development-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
+
+</div>
 
 ## 🚀 About Me
 
