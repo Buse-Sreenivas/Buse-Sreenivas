@@ -31,34 +31,38 @@ Currently, I’m working on an **AI-Based Proctoring System** focused on improvi
 
 ---
 
-# 🧩 Tech Stack
-
-## 💻 Languages
+## 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-## 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-## 🗄️ Database & Cloud
+---
+
+## 🌐 Web & Dashboard Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+</p>
+
+---
+
+## ☁️ Database & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
 </p>
 
-## 🤖 AI / ML Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+---
 
 ## 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
 </p>
 
----
 
 # 💼 Featured Projects
 
