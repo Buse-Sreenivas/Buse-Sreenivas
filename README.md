@@ -61,9 +61,12 @@
 
 ## 📂 Featured Projects
 
-### 📈 Sales Dashboard Analysis
-- Built interactive dashboard using **Power BI**
-- Analyzed sales trends and KPIs
+### 💰 AI Based Proctoring System for Online Test
+- Real-time AI-based webcam monitoring using OpenCV and TensorFlow
+- YOLOv3-powered detection for multiple persons and mobile phones
+- Facial landmark tracking for eye movement and head pose estimation
+- Audio analysis using SpeechRecognition and NLP-based keyword detection
+- Face anti-spoofing system to detect fake or unauthorized face attempts
 
 ### 💰 Financial Data Analysis
 - Cleaned and visualized stock/finance datasets
