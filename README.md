@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Busepalli Sreenivas</h1>
 
 <h3 align="center">
-  Aspiring Data Analyst 📊 | Turning Data into Insights 🚀
+   Data Analyst 📊 | Turning Data into Insights 🚀
 </h3>
 
 <p align="center">
@@ -47,11 +47,12 @@
 
 <img align="right" alt="Data Analyst" width="300" src="https://cdn-icons-png.flaticon.com/512/4149/4149680.png"/>
 
-- 📊 Aspiring **Data Analyst** passionate about solving real-world problems using data  
-- 📈 Skilled in transforming raw datasets into meaningful business insights  
-- 🧠 Interested in **Data Visualization, SQL, Python, Excel, and Power BI**  
-- 🌱 Currently learning **Machine Learning & Advanced Analytics**  
-- 💼 Looking for opportunities as a **Data Analyst / Business Analyst**  
+- 📊 Passionate and detail-oriented **Data Analyst** with a strong interest in transforming complex datasets into actionable business insights  
+- 📈 Skilled in **Data Analysis, Data Cleaning, Data Visualization, and Business Intelligence** to support data-driven decision-making  
+- 🧠 Proficient in tools and technologies such as **Python, SQL, Excel, Power BI, Tableau, and Statistical Analysis**   
+- 🚀 Continuously enhancing my expertise in **Machine Learning, Predictive Analytics, and Advanced Data Analytics**  
+- 💡 Strong problem-solving mindset with the ability to convert raw data into meaningful visual stories and strategic recommendations   
+- 💼 Actively seeking opportunities as a **Data Analyst / Business Analyst** to contribute analytical skills and business insights in a growth-oriented organization  
 - 📫 Reach me at: **busepallisreenivas@gmail.com**
 
 <br clear="right"/>
@@ -142,25 +143,18 @@
 
 # 📂 Featured Projects
 
-## 📈 Sales Dashboard Analysis
-✔️ Built interactive dashboards using **Power BI**  
-✔️ Analyzed sales trends, KPIs, and customer performance  
-✔️ Improved decision-making through visual analytics
+## 🤖 AI Based Proctoring System for Online Test
 
----
-
-## 🛒 E-Commerce Customer Insights
-✔️ Used **Python + Pandas** for customer behavior analysis  
-✔️ Identified retention and churn patterns  
-✔️ Generated actionable business insights
-
----
+✔️ Real-time candidate monitoring using AI algorithms
+✔️ Facial recognition and identity verification system
+✔️ Eye-tracking and suspicious activity detection
+✔️ Automated cheating prevention during examinations
+✔️ Audio, video, and screen activity monitoring
 
 ## 💰 Financial Data Analysis
 ✔️ Cleaned and visualized finance datasets  
 ✔️ Created reports using **Excel & Python**  
 ✔️ Performed trend analysis and forecasting
-
 ---
 
 # 📊 GitHub Stats
