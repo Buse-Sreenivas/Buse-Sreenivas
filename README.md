@@ -1,8 +1,7 @@
 
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Akash+M;Software+Developer+💻;Blockchain+Enthusiast+⛓️;Full+Stack+Developer+🚀;Machine+Learning+Explorer+🤖" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Busepalli+Sreenivas;Data+Analyst+📊;AI+Based+Proctoring+System+🤖;Machine+Learning+Explorer+🧠;Python+Developer+💻" 
     alt="Typing SVG" 
   />
 </p>
