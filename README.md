@@ -1,14 +1,12 @@
-<div align="center">
 
-<h1>Busepalli Sreenivas</h1>
 
-### Data Analyst | AI Proctoring | Machine Learning | Full Stack Developer
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Akash+M;Software+Developer+💻;Blockchain+Enthusiast+⛓️;Full+Stack+Developer+🚀;Machine+Learning+Explorer+🤖" 
+    alt="Typing SVG" 
+  />
+</p>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Blockchain-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tech-Full%20Stack%20Development-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge" />
-
-</div>
 
 ## 🚀 About Me
 
