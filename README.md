@@ -1,123 +1,41 @@
 
-<!-- 🌟 PROFILE HEADER -->
+<!-- ========================= PROFILE HEADER ========================= -->
+
+<h1 align="center">Hi 👋, I'm Busepalli Sreenivas</h1>
+
+<h3 align="center">
+  Aspiring Data Analyst 📊 | Turning Data into Insights 🚀
+</h3>
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Busepalli+Sreenivas;Data+Analyst+📊;AI+Based+Proctoring+Developer+🤖;Machine+Learning+Explorer+🧠;Full+Stack+Developer+💻" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Expert+📈;Turning+Raw+Data+into+Insights+🚀" 
     alt="Typing SVG" 
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://i.postimg.cc/d1LvPP59/profile-banner.jpg" 
-    width="100%" 
-    alt="Profile Banner"
-  />
-</p>
-
 ---
 
-# 🚀 About Me
-
-I’m passionate about building intelligent systems and data-driven applications using **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.  
-Currently, I’m working on an **AI-Based Proctoring System** focused on improving online examination monitoring and security.
-
-- 🎓 Computer Science student passionate about AI and software development  
-- 💡 Interested in **Data Analytics**, **Machine Learning**, and **Computer Vision**  
-- 🔭 Currently building **AI-Based Proctoring Systems** and analytics dashboards  
-- 🌱 Learning **Deep Learning**, **Cloud Computing**, and **MLOps**  
-- 💬 Open to collaborating on AI, ML, and full-stack development projects  
-- 📫 Reach me at: **yourmail@example.com**
-
----
-
-## 🤖 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
----
-
-## 🌐 Web & Dashboard Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
-</p>
-
----
-
-## ☁️ Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
-</p>
-
----
-
-## 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
-</p>
-
-
-# 💼 Featured Projects
-
-## 🤖 AI-Based Proctoring System
-> Developed an intelligent online exam monitoring system using AI techniques such as face detection, eye tracking, and suspicious activity monitoring.  
-
-**Technologies Used:**  
-`Python` • `OpenCV` • `TensorFlow` • `Flask` • `Machine Learning`
-
----
-
-## 📊 Data Analytics Dashboard
-> Built an interactive dashboard for analyzing and visualizing large datasets to generate meaningful business insights.  
-
-**Technologies Used:**  
-`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Power BI`
-
----
-
-## 🔍 E-Commerce Fraud Detection System
-> Designed a machine learning model to detect fraudulent online transactions using classification algorithms.  
-
-**Technologies Used:**  
-`Python` • `Scikit-learn` • `Pandas` • `NumPy`
-
----
-
-# 🏆 Achievements
-
-- 🎯 Built multiple AI and full-stack projects  
-- 📚 Continuously learning advanced AI and Data Science concepts  
-- 🚀 Strong interest in research and intelligent automation systems  
-
----
-
-# 🌐 Connect with Me
+<!-- ========================= SOCIAL LINKS ========================= -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://github.com/Buse-Sreenivas" target="_blank">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-Buse--Sreenivas-181717?style=for-the-badge&logo=github&logoColor=white" 
       alt="GitHub"
     />
   </a>
 
-  <a href="mailto:yourmail@example.com">
+  <a href="https://www.linkedin.com/in/busepalli-sreenivas" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Sreenivas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:busepallisreenivas@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
     />
   </a>
@@ -125,33 +43,168 @@ Currently, I’m working on an **AI-Based Proctoring System** focused on improvi
 
 ---
 
+# 🚀 About Me
+
+<img align="right" alt="Data Analyst" width="300" src="https://cdn-icons-png.flaticon.com/512/4149/4149680.png"/>
+
+- 📊 Aspiring **Data Analyst** passionate about solving real-world problems using data  
+- 📈 Skilled in transforming raw datasets into meaningful business insights  
+- 🧠 Interested in **Data Visualization, SQL, Python, Excel, and Power BI**  
+- 🌱 Currently learning **Machine Learning & Advanced Analytics**  
+- 💼 Looking for opportunities as a **Data Analyst / Business Analyst**  
+- 📫 Reach me at: **busepallisreenivas@gmail.com**
+
+<br clear="right"/>
+
+---
+
+# 🧩 Skills & Tools
+
+## 🚀 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+---
+
+## 📊 Data Analysis Libraries
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Data Visualization Tools
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel_Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
+
+---
+
+## 📉 Python Visualization Libraries
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+---
+
+## ⚙️ Data Engineering / ETL
+<p>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Wrangling-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Transformation-16A085?style=for-the-badge"/>
+</p>
+
+---
+
+## 🤖 Analytics & Statistics
+<p>
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Regression_Analysis-E74C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Forecasting-2980B9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/A/B_Testing-27AE60?style=for-the-badge"/>
+</p>
+
+---
+
+## 📌 Spreadsheet Skills
+<p>
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VLOOKUP-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XLOOKUP-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Macros-7B1FA2?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 📈 Sales Dashboard Analysis
+✔️ Built interactive dashboards using **Power BI**  
+✔️ Analyzed sales trends, KPIs, and customer performance  
+✔️ Improved decision-making through visual analytics
+
+---
+
+## 🛒 E-Commerce Customer Insights
+✔️ Used **Python + Pandas** for customer behavior analysis  
+✔️ Identified retention and churn patterns  
+✔️ Generated actionable business insights
+
+---
+
+## 💰 Financial Data Analysis
+✔️ Cleaned and visualized finance datasets  
+✔️ Created reports using **Excel & Python**  
+✔️ Performed trend analysis and forecasting
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=Buse-Sreenivas&show_icons=true&theme=tokyonight" 
     height="165"
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" 
-    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Buse-Sreenivas&theme=tokyonight" 
     height="165"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buse-Sreenivas&layout=compact&theme=tokyonight"
   />
 </p>
 
 ---
 
+# 🌐 Connect With Me
+
 <p align="center">
-  ⭐ <b>“Passionate about AI, Data Analytics, and Building Intelligent Systems”</b> ⭐
+  <a href="https://www.linkedin.com/in/busepalli-sreenivas">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/Buse-Sreenivas">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:busepallisreenivas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
+
+---
+
+<h3 align="center">
+⭐ “Without data, you're just another person with an opinion.” ⭐
+</h3>
 ```
+
